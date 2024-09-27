@@ -8,4 +8,4 @@
   values for category, rating, size, and more. Another dataset contains customer reviews of the android apps. 
   Explore and analyse the data to discover key factors responsible for app engagement and success.</p>
 
-<img src='C:\Users\Muskaan\Downloads\PlayStoreApp\problemStatement.png' alt='ProblemStatement'>
+<img src='problemStatement.png' alt='ProblemStatement'>
